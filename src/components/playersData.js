@@ -1,0 +1,92 @@
+export default [
+  {
+    id: 1,
+    name: 'Lionel Messi',
+    salary: 126,
+    avatar: 'imag',
+  },
+  {
+    id: 2,
+    name: 'Cristiano Ronaldo',
+    salary: 125,
+    avatar: 'imag',
+  },
+  {
+    id: 3,
+    name: 'Neymar',
+    salary: 120,
+    avatar: 'imag',
+  },
+  {
+    id: 4,
+    name: 'Robert Lewandowski',
+    salary: 110,
+    avatar: 'imag',
+  },
+  {
+    id: 5,
+    name: 'Kylian Mbappé',
+    salary: 100,
+    avatar: 'imag',
+  },
+  {
+    id: 6,
+    name: 'Zlatan Ibrahimović',
+    salary: 90,
+    avatar: 'imag',
+  },
+  {
+    id: 7,
+    name: 'Mohamed Salah',
+    salary: 95,
+    avatar: 'imag',
+  },
+  {
+    id: 8,
+    name: 'Zinedine Zidane',
+    salary: 90,
+    avatar: 'imag',
+  },
+  {
+    id: 9,
+    name: 'Kevin De Bruyne',
+    salary: 85,
+    avatar: 'imag',
+  },
+  {
+    id: 10,
+    name: 'Luis Suárez',
+    salary: 80,
+    avatar: 'imag',
+  },
+  {
+    id: 11,
+    name: 'Eden Hazard',
+    salary: 75,
+    avatar: 'imag',
+  },
+  {
+    id: 12,
+    name: 'Sadio Mané',
+    salary: 95,
+    avatar: 'imag',
+  },
+  {
+    id: 13,
+    name: 'Sergio Ramos',
+    salary: 80,
+    avatar: 'imag',
+  },
+  {
+    id: 14,
+    name: 'Virgil van Dijk',
+    salary: 80,
+    avatar: 'imag',
+  },
+  {
+    id: 15,
+    name: 'Karim Benzema',
+    salary: 100,
+    avatar: 'imag',
+  },
+];
